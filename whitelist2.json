@@ -1188,6 +1188,24 @@
       ]
     }
   },
+      "b8d0833aa696c0dbde5cd0bb602875167f80b6fb533ac3530e632407ae71f06d97421c0d4bbb382afebb3ab9d26f2026459b95d4db6c84ad21081eaf49f2079b": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    }
+  },
   "specialusers": {
     "709094619161296939": {
       "NameColor": {
